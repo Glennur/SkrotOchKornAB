@@ -1,0 +1,45 @@
+.test 
+{
+    position: left;
+    left: 100px;
+    top: 100px;
+
+}
+
+a:link {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+a:visited 
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button:hover 
+{
+    background-color: green;
+}
+body
+{
+    background-color: rgb(209, 250, 250);
+}
+#contactus
+{
+    width: 240px;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+button
+{
+    font-size: 20px;
+}
+.cropped-banner
+{
+    width: 800px;
+    height: 100px;
+    object-fit: cover;
+    object-position: center 30%;
+}
+
